@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "springapi.frontend.url",
+      "type": "java.lang.String",
+      "description": "The url to connect to your front-end application"
+    }
+  ]
+}
